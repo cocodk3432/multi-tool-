@@ -2,7 +2,7 @@
 
 
 🌐 Connect with me:
-- [GitHub]([https://github.com/YourGitHubUsername](https://github.com/cocodk3432))
+- [GitHub](https://github.com/cocodk3432)
 - [LinkedIn](https://www.linkedin.com/)
 - [Twitter](https://twitter.com/)
 
