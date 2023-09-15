@@ -37,4 +37,7 @@ Welcome to the Multifunctional Python Program! This versatile Python script offe
 2. Run the program using Python.
 
 ```shell
+pip install pandas
+pip install hashlib
+pip install cryptography
 python main.py
